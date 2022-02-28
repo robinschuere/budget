@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robinschuere/budget.git"
+    "url": "git+git@github.com:robinschuere/budget.git"
   },
   "author": "Robin Schuerewegen",
   "license": "ISC",
